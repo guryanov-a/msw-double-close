@@ -1,0 +1,11 @@
+{
+  "name": "msw-double-close",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "msw": "3.0.4"
+  }
+}
